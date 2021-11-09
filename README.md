@@ -1,2 +1,2 @@
-# Mapping Earthquakes Analysis: 
+## Mapping Earthquakes Analysis: 
 
